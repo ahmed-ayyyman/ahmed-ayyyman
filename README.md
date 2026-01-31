@@ -13,12 +13,6 @@
 </p>
 
 <br/>
-###🛠️ Technologies & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker,git,github,vscode,postman" />
-</p>
-
-<br/>
 ### 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker,git,github,vscode,postman" />
@@ -42,5 +36,6 @@
     <td><a href="https://github.com/ahmed-ayyyman/natours-api">→ Repo</a></td>
   </tr>
 </table>
+
 
 
