@@ -19,7 +19,12 @@
 </p>
 
 <br/>
-###🔥 Featured Projects
+### 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker,git,github,vscode,postman" />
+</p>
+
+### 🔥 Featured Projects
 <table>
   <tr>
     <td><b>Contacts API</b></td>
@@ -36,6 +41,6 @@
     <td>Tour booking REST API (users, reviews, payments simulation)</td>
     <td><a href="https://github.com/ahmed-ayyyman/natours-api">→ Repo</a></td>
   </tr>
-  <!-- Add 2–4 more good ones if needed -->
 </table>
+
 
