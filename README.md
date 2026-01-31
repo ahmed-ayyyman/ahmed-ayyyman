@@ -13,13 +13,13 @@
 </p>
 
 <br/>
-### 🛠️ Technologies & Tools
+###🛠️ Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker,git,github,vscode,postman" />
 </p>
 
 <br/>
-### 🔥 Featured Projects
+###🔥 Featured Projects
 <table>
   <tr>
     <td><b>Contacts API</b></td>
