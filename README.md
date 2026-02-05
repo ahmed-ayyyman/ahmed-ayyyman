@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ahmed;Aspiring+Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Docker+%7C+Learning+DevOps" alt="Typing SVG" />
 </div>
 <br/>
-<h3 align="center">CS Student • Backend | Node.js • Docker</h3>
+<h3 align="center">CS Student • Backend | Node.js • Nest.js</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-ayyyman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
