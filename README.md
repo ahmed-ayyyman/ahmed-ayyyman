@@ -23,7 +23,7 @@
   <tr>
     <td><b>URL Shortener</b></td>
     <td>A simple Node.js URL shortener service. This project allows users to shorten URLs and redirect to the original URL using a generated short code.</td>
-    <td><a href"https://github.com/ahmed-ayyyman/url-shortener">→ Repo</a></td>
+    <td><a href="https://github.com/ahmed-ayyyman/url-shortener">→ Repo</a></td>
   </tr>
   <tr>
     <td><b>Contacts API</b></td>
