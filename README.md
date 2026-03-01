@@ -22,6 +22,11 @@
 ### 🔥 Featured Projects
 <table>
   <tr>
+    <td><b>Online-Shop</b></td>
+    <td>RESTful API backend for an e-commerce platform with full CRUD for products, categories, subcategories & brands, plus filtering, searching, sorting, pagination and validation • Node.js + Express + MongoDB</td>
+    <td><a href="https://github.com/ahmed-ayyyman/Online-Shop">→ Repo</a></td>
+  </tr>
+  <tr>
     <td><b>URL Shortener</b></td>
     <td>A simple Node.js URL shortener service. This project allows users to shorten URLs and redirect to the original URL using a generated short code.</td>
     <td><a href="https://github.com/ahmed-ayyyman/url-shortener">→ Repo</a></td>
@@ -40,11 +45,6 @@
     <td><b>Natours API</b></td>
     <td>Tour booking REST API (users, reviews, payments simulation)</td>
     <td><a href="https://github.com/ahmed-ayyyman/natours-api">→ Repo</a></td>
-  </tr>
-  <tr>
-    <td><b>Online-Shop</b></td>
-    <td>RESTful API backend for an e-commerce platform with full CRUD for products, categories, subcategories & brands, plus filtering, searching, sorting, pagination and validation • Node.js + Express + MongoDB</td>
-    <td><a href="https://github.com/ahmed-ayyyman/Online-Shop">→ Repo</a></td>
   </tr>
 </table>
 
