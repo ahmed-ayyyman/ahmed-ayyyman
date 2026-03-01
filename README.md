@@ -41,6 +41,11 @@
     <td>Tour booking REST API (users, reviews, payments simulation)</td>
     <td><a href="https://github.com/ahmed-ayyyman/natours-api">→ Repo</a></td>
   </tr>
+  <tr>
+    <td><b>Online-Shop</b></td>
+    <td>RESTful API backend for an e-commerce platform with full CRUD for products, categories, subcategories & brands, plus filtering, searching, sorting, pagination and validation • Node.js + Express + MongoDB</td>
+    <td><a href="https://github.com/ahmed-ayyyman/Online-Shop">→ Repo</a></td>
+  </tr>
 </table>
 
 
